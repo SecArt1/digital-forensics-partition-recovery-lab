@@ -1163,7 +1163,6 @@ chmod +x analyze_partition.sh
 ### Documentation and References
 - TestDisk documentation: https://www.cgsecurity.org/wiki/TestDisk
 - Foremost manual: `man foremost`
-- Digital Forensics Guide: https://www.sans.org/blog/digital-forensics-books/
 - Linux forensics resources: Various SANS and NIST publications
 
 ### Practice Datasets
